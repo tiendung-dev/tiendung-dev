@@ -102,20 +102,10 @@ tiendung@dev-station:~$ whoami --verbose
 ### 🔄 Auto-Updated Repositories & Projects
 
 <!-- RECENT_PROJECTS_START -->
-
-| Repository | Description | Primary Stack | Stars | Last Pushed |
-| :--- | :--- | :---: | :---: | :---: |
-| **[SpaBookingSystem](https://github.com/tiendung-dev/SpaBookingSystem)** | 💆 End-to-end Spa & Salon Booking platform with real-time notifications & PayOS integration | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> | ⭐ 0 | `2026-08-24` |
-| **[Backend-VietWorks](https://github.com/tiendung-dev/Backend-VietWorks)** | 🛠️ Scalable backend architecture & database connectors for VietWorks ATS | `Code` | ⭐ 0 | `2026-08-22` |
-| **[AI-VietWorks](https://github.com/tiendung-dev/AI-VietWorks)** | 🤖 AI microservice powering intelligent resume matching & ATS scoring using Gemini & Llama 3 | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> | ⭐ 0 | `2026-08-22` |
-| **[API-VietWorks](https://github.com/tiendung-dev/API-VietWorks)** | ⚡ Core RESTful API service for VietWorks recruitment portal & candidate pipeline | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> | ⭐ 0 | `2026-08-20` |
-| **[Workly_App](https://github.com/tiendung-dev/Workly_App)** | 📱 Productivity and workflow management mobile application | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> | ⭐ 0 | `2026-07-28` |
-| **[PRM393](https://github.com/tiendung-dev/PRM393)** | 📱 Mobile application project built with modern cross-platform practices | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> | ⭐ 0 | `2026-07-13` |
-
 <!-- RECENT_PROJECTS_END -->
 
 <p align="right">
-  <i>⚡ Tự động cập nhật định kỳ bởi GitHub Actions • Lần cập nhật gần nhất: <!-- LAST_UPDATED -->2026-09-11 00:21:09 UTC<!-- /LAST_UPDATED --></i>
+  <i>⚡ Tự động cập nhật định kỳ bởi GitHub Actions • Lần cập nhật gần nhất: <!-- LAST_UPDATED -->vừa xong<!-- /LAST_UPDATED --></i>
 </p>
 
 ---
